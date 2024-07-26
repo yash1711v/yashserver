@@ -1,15 +1,8 @@
 {
 "posts": [
-{
-  "id" : "",
-  "title": "",
-  "description": "",
-  "dueDate": "",
-  "priority": "",
-  "isCompleted": false
-}
+
 ],
 "profile": {
 "name": "typicode"
-}
+ }
 }
